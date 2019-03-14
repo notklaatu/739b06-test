@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=hell.py
+Icon=foo
+Name=Foo Echo Test
+GenericName=Test Python AppImage
+StartupNotify=true
+Type=Application
+Categories=Education;
